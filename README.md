@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abubakarlaghari
 - 👀 I’m interested in wordpress development
-- 🌱 I’m currently learning pythone
-- 💞️ I’m looking to collaborate on wordpress development and graphic designing
-- 📫 How to reach me abubakarlaghari6@gmail.com
+- 🌱 I’m currently working with pythone
+- 💞️ I’m looking to collaborate on python & web development
+- 📫 How to reach me info@abubakarlaghari.com
 
 <!---
 abubakarlaghari/abubakarlaghari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
